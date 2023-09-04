@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Debug",
+    "\\imgViewer",
+    "\\imgViewer\\Debug",
+    "\\imgViewer\\Debug\\imgDisplay.tlog",
+    "\\imgViewer\\Debug\\imgViewer.tlog",
+    "\\imgViewer\\x64",
+    "\\imgViewer\\x64\\Debug",
+    "\\imgViewer\\x64\\Debug\\imgDisplay.tlog",
+    "\\imgViewer\\x64\\Debug\\imgViewer.tlog"
+  ],
+  "SelectedNode": "\\imgViewer\\imgViewer.vcxproj.filters",
+  "PreviewInSolutionExplorer": false
+}
